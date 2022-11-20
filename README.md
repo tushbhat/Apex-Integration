@@ -1,2 +1,4 @@
 # Apex-Integration
-Apex Integration: To an external API, between 2 different Salesforce Orgs
+
+1. Call an external API "Spoonacular API" to fetch and display data.
+2. Connect two different salesforce orgs.
